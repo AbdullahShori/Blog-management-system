@@ -1,0 +1,28 @@
+.bs:hover
+{
+	color:red;
+	font-size: 150px;
+	transition: 1.2s ;
+}
+tr:hover
+{
+	color: black;
+	background-color: red;
+}
+s:hover
+{
+	transition: 1s ease;
+}
+.acc {
+  -webkit-animation: progress-bar-stripes 10s linear infinite;
+  -o-animation: progress-bar-stripes 0.3s cubic-bezier(.91, .91, .81, -0.39) infinite;
+  animation: progress-bar-stripes 0.2s cubic-bezier(.85, -0.33, .34, 1.13) infinite;
+}
+
+#AA:hover
+{
+       background-color: crimson;
+}
+.ab{
+       border-radius: 50%;
+}
